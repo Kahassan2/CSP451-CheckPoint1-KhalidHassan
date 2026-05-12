@@ -18,8 +18,7 @@ workflows, commit conventions, and branching strategies.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DC-Seneca/CK1.git
-   cd CK1/csp451-checkpoint1
+   2.	git clone https://github.com/Kahassan2/CSP451-CheckPoint1-KhalidHassan.git
    ```
 
 2. Navigate to the project directory:
